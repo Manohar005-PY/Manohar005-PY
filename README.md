@@ -12,9 +12,8 @@ I build API-driven applications and database-backed systems, with a focus on cle
 
 ## Tech Stack
 
-- **Languages:** Python, Java, SQL, TypeScript, JavaScript
+- **Languages:** Python, Java, SQL
 - **Backend:** FastAPI, Spring Boot, SQLAlchemy, Alembic, REST APIs
-- **Frontend:** React, Next.js, Tailwind CSS
 - **Data:** PostgreSQL, Redis
 - **Tools:** Docker, Git, GitHub Actions, Linux, Pytest, Maven
 - **ML:** scikit-learn, model evaluation (Accuracy, F1)
