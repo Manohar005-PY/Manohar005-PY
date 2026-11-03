@@ -64,5 +64,5 @@ A backend application implementing product management, inventory operations, ord
 ### Connect
 
 - LinkedIn: [Manohar](https://www.linkedin.com/in/manohar-dilip-821a19303/)
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/Manohar005-PY)
+- GitHub: [Manohar005-PY](https://github.com/Manohar005-PY)
 
